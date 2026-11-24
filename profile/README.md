@@ -22,9 +22,9 @@ SpeakOps is a hybrid AI system that analyzes your speech in real-time (Interview
 
 | Component | Tech Stack | Role |
 | :--- | :--- | :--- |
-| **[desktop](https://github.com/speakops/desktop)** | **Next.js / FastAPI**. The central dashboard and interview simulator. | *Mission Control* |
-| **[cloud](https://github.com/speakops/cloud)** | **Python / Whisper / Llama 3**. Heavy lifting inference and analysis API. | *The Brain* |
-| **[phone](https://github.com/speakops/phone)** | **PWA**. Low-latency websocket client for real-time cues. | *The Receiver* |
+| **desktop** | **Next.js / FastAPI**. The central dashboard and interview simulator. | *Mission Control* |
+| **cloud** | **Python / Whisper / Llama 3**. Heavy lifting inference and analysis API. | *The Brain* |
+| **phone** | **PWA**. Low-latency websocket client for real-time cues. | *The Receiver* |
 
 ---
 
